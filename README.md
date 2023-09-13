@@ -17,10 +17,6 @@
   the dependencies can be found in the package.json file
   ## How to Use This Application:
   I used Javacript, Node.js and SQL for this project.
-  ## Contributors
-  
-  ## Testing
-  
   ## Questions
   Please send your questions [here](mailto:wrenjohnson22@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/wrenjohnson](https://github.com/wrenjohnson).
   
